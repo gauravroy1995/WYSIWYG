@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "draft-js": "^0.10.5",
+    "draft-js-plugins-editor": "^2.1.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.0.5"
+    "react-scripts": "2.0.5",
+    "yarn-install": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
